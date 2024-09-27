@@ -3135,7 +3135,7 @@ them.”
 “You are setting a feast of fat things before me,” said Leslie,
 joyously.  Then, as the clock struck ten, she rose, half unwillingly.
 
-“I must go.  I didn’t realise it was so late.  Captain Jim is always
+“I must go.  I didn’t realize it was so late.  Captain Jim is always
 saying it doesn’t take long to stay an hour.  But I’ve stayed two--and
 oh, but I’ve enjoyed them,” she added frankly.
 
@@ -3765,7 +3765,7 @@ glitter.  The only things that held their own individuality were the
 firs--for the fir is the tree of mystery and shadow, and yields never
 to the encroachments of crude radiance.
 
-But finally the day began to realise that she was growing old.  Then a
+But finally the day began to realize that she was growing old.  Then a
 certain pensiveness fell over her beauty which dimmed yet intensified
 it; sharp angles, glittering points, melted away into curves and
 enticing gleams.  The white harbor put on soft grays and pinks; the
@@ -4765,7 +4765,7 @@ spoken with a lack of restraint that was very unusual with her.
 
 “On that horrible night when you were so ill,” Leslie went on, “I kept
 thinking that perhaps we’d have no more talks and walks and WORKS
-together.  And I realised just what your friendship had come to mean to
+together.  And I realized just what your friendship had come to mean to
 me--just what YOU meant--and just what a hateful little beast I had
 been.”
 
@@ -5271,7 +5271,7 @@ melancholy, inscrutable hero of Anne’s own early dreams; but mirth and
 humor and charm lighted it up when he smiled.  Certainly, on the
 outside, as Miss Cornelia said, Owen Ford was a very presentable fellow.
 
-“You cannot realise how delighted I am to be here, Mrs. Blythe,” he
+“You cannot realize how delighted I am to be here, Mrs. Blythe,” he
 said, looking around him with eager, interested eyes.  “I have an odd
 feeling of coming home.  My mother was born and spent her childhood
 here, you know.  She used to talk a great deal to me of her old home.
@@ -5590,7 +5590,7 @@ winter; how a tiger had broken loose on board ship; how his crew had
 mutinied and marooned him on a barren island--these and many other
 tales, tragic or humorous or grotesque, did Captain Jim relate.  The
 mystery of the sea, the fascination of far lands, the lure of
-adventure, the laughter of the world--his hearers felt and realised
+adventure, the laughter of the world--his hearers felt and realized
 them all.  Owen Ford listened, with his head on his hand, and the First
 Mate purring on his knee, his brilliant eyes fastened on Captain Jim’s
 rugged, eloquent face.
@@ -5867,7 +5867,7 @@ enough without this?
 
 “It wouldn’t be so hard to go and leave her if she were only happy,”
 resumed Owen passionately.  “But to think of her living death--to
-realise what it is to which I do leave her!  THAT is the worst of all.
+realize what it is to which I do leave her!  THAT is the worst of all.
 I would give my life to make her happy--and I can do nothing even to
 help her--nothing.  She is bound forever to that poor wretch--with
 nothing to look forward to but growing old in a succession of empty,
@@ -5895,7 +5895,7 @@ hair, and she was standing on the veranda in the sunshine to dry it.
 It fell all about her to her feet in a fountain of living gold.  When
 she saw me she hurried in, and the wind caught her hair and swirled it
 all around her--Danae in her cloud.  Somehow, just then the knowledge
-that I loved her came home to me--and realised that I had loved her
+that I loved her came home to me--and realized that I had loved her
 from the moment I first saw her standing against the darkness in that
 glow of light.  And she must live on here--petting and soothing Dick,
 pinching and saving for a mere existence, while I spend my life longing
@@ -5937,7 +5937,7 @@ who puts a certain conversation behind him.
 things like that always did hurt me--I remember I called it ‘the queer
 ache’ when I was a child.  What is the reason that pain like this seems
 inseparable from perfection?  Is it the pain of finality--when we
-realise that there can be nothing beyond but retrogression?”
+realize that there can be nothing beyond but retrogression?”
 
 “Perhaps,” said Owen dreamily, “it is the prisoned infinite in us
 calling out to its kindred infinite as expressed in that visible
@@ -7175,7 +7175,7 @@ I am wholesomely ashamed of it.”
 “How does Leslie seem to take it?”
 
 “She writes like one dazed.  I think that, like ourselves, she hardly
-realises it yet.  She says, ‘It all seems like a strange dream to me,
+realizes it yet.  She says, ‘It all seems like a strange dream to me,
 Anne.’  That is the only reference she makes to herself.”
 
 “Poor child!  I suppose when the chains are struck off a prisoner he’d
@@ -7240,7 +7240,7 @@ were gleaming through the pale, silvery twilight like golden stars.
 “Yes.  George Moore’s sister came to Montreal and took him home with
 her.  Poor fellow, he was sorry to part with me--though I was a
 stranger to him when his memory first came back.  He clung to me in
-those first hard days when he was trying to realise that Dick’s death
+those first hard days when he was trying to realize that Dick’s death
 was not the thing of yesterday that it seemed to him.  It was all very
 hard for him.  I helped him all I could.  When his sister came it was
 easier for him, because it seemed to him only the other day that he had
@@ -7248,7 +7248,7 @@ seen her last.  Fortunately she had not changed much, and that helped
 him, too.”
 
 “It is all so strange and wonderful, Leslie.  I think we none of us
-realise it yet.”
+realize it yet.”
 
 “I cannot.  When I went into the house over there an hour ago, I felt
 that it MUST be a dream--that Dick must be there, with his childish
@@ -8780,7 +8780,7 @@ death, had made sacred forever this little house of dreams.
 And now she must leave it.  She knew that, even while she had contended
 against the idea to Gilbert.  The little house was outgrown.  Gilbert’s
 interests made the change necessary; his work, successful though it had
-been, was hampered by his location.  Anne realised that the end of
+been, was hampered by his location.  Anne realized that the end of
 their life in this dear place drew nigh, and that she must face the
 fact bravely.  But how her heart ached!
 
@@ -8884,7 +8884,7 @@ be true.  I sha’n’t feel half so badly now that I know this dear spot
 will never be desecrated by a vandal tribe, or left to tumble down in
 decay.  Why, it’s lovely!  It’s lovely!”
 
-One October morning Anne wakened to the realisation that she had slept
+One October morning Anne wakened to the realization that she had slept
 for the last time under the roof of her little house.  The day was too
 busy to indulge regret and when evening came the house was stripped and
 bare.  Anne and Gilbert were alone in it to say farewell.  Leslie and
